@@ -46,6 +46,7 @@ kubectl get node
 
 ![image](https://user-images.githubusercontent.com/43192516/192737515-dd643c77-1ebd-4ac7-a0ef-54161752c4a2.png)
 
+根据提示执行安装提示的命令
 
 6. 手动创建tomcat应用，开放外部端口并挂载路径/usr/local/tomcat
 7. 记录token和集群ID
